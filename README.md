@@ -1,2 +1,2 @@
 # School Assistant Messages
-This is the JSON file powering School Assistant's in-app announcements feature.
+These are the JSON files powering School Assistant's in-app announcements feature.
