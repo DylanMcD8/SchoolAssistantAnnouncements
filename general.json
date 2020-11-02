@@ -1,4 +1,4 @@
 {
-   "shouldShow": "No",
-   "message": "Error. Please report this bug."
+   "shouldShow": "Yes",
+   "message": "This is a test message."
 }
