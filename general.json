@@ -1,5 +1,5 @@
 {
-   "shouldShow": "No",
-   "id": 4,
-   "message": "Please be sure update to the latest version of School Assistant to fix some critical bugs."
+   "shouldShow": "Yes",
+   "id": 5,
+   "message": "A new bug fix update is out now! Be sure to update in the App Store."
 }
