@@ -1,5 +1,5 @@
 {
-   "shouldShow": "No",
-   "id": 6,
-   "message": "Version 2.5.1 is out now! It includes a new Apple Watch app and a complete rewrite of the data system."
+   "shouldShow": "Yes",
+   "id": 7,
+   "message": "PSA: School Assistant may not work properly with the iOS 15 beta. Do not install it if you need School Assistant."
 }
