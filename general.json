@@ -1,5 +1,5 @@
 {
    "shouldShow": "Yes",
-   "id": 7,
-   "message": "PSA: School Assistant may not work properly with the iOS 15/macOS Monterey betas. Do not install them if you need School Assistant."
+   "id": 8,
+   "message": "PSA: If you rely on iCloud syncing for School Assistant, do not install the iOS 15/macOS Monterey betas."
 }
