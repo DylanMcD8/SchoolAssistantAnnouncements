@@ -1,5 +1,5 @@
 {
-   "shouldShow": "Yes",
+   "shouldShow": "No",
    "id": 15,
-   "message": "⚠️ iCloud seems to be having issues right now. These issues are, as far as I can tell, Apple-related. Sorry if you are unable to sync new changes."
+   "message": ""
 }
